@@ -1,6 +1,5 @@
 class Sieve {
   NthPrime(n) {
-    console.log(n);
     let primes = [2, 3, 5, 7];
     // Early return for first 4 primes
     if (n < primes.length) return primes[n];
