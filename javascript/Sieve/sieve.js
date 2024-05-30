@@ -1,3 +1,6 @@
+//NOTE: For this implementation I tried to create my own implementation of The Sieve of Eratosthenes
+// Although not fast enough and more brute force this solution would work
+
 class Sieve {
   NthPrime(n) {
     let primes = [2, 3, 5, 7];
