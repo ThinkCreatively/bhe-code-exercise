@@ -1,4 +1,4 @@
-//NOTE: For this implementation I researched The Sieve of Eratosthenes and tried to stay as faithful to it as I could
+//NOTE: For this implementation I researched The Sieve of Eratosthenes to greater detial and tried to stay as faithful to it as I could
 
 package sieve
 

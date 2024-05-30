@@ -1,5 +1,5 @@
-//NOTE: For this implementation I tried to create my own implementation of The Sieve of Eratosthenes
-// Although not fast enough and more brute force this solution would work
+//NOTE: For this implementation I tried to create my own implementation of The Sieve of Eratosthenes after little research.
+// Although not fast enough and more brute force this solution would work.
 
 class Sieve {
   NthPrime(n) {
